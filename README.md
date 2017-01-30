@@ -1,9 +1,6 @@
 # hello-world
 Intro repository
 
-Bee Movie Script
-
-  
   
 According to all known laws
 of aviation,
