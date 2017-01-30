@@ -1,6 +1,4 @@
 # hello-world
-Intro repository
-
   
 According to all known laws
 of aviation,
